@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Week4 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Week4 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
